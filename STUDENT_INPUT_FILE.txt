@@ -1,0 +1,28 @@
+StudentDb.Undergrad
+Alice Amy
+Anderson
+4.0
+aanderson@uw.edu
+Junior
+BSIT
+StudentDb.GradStudent
+Bob Billy
+Bradshaw
+3.8
+bbradshaw@uw.edu
+11111.11
+Dr. Donald Chinn
+StudentDb.Undergrad
+Carlos Charlie
+Castaneda
+3.6
+ccastaneda@uw.edu
+Sophomore
+Psychology
+StudentDb.GradStudent
+David Deacon
+Davis
+3.7
+ddavis@uw.edu
+22222.22
+Dr. Ankur Teredesai

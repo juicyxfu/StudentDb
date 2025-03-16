@@ -1,0 +1,218 @@
+
+***********************************************************
+******************* StudentDatabase App *******************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[A]dd a student record       (C in CRUD - Create)
+[F]ind a student record      (R in CRUD - Read)
+[M]odify student record      (U in CRUD - Update)
+[D]elete a student record    (D in CRUD - Delete)
+[P]rint all records in current database storage
+Print all primary [K]eys (email addresses)
+[S]ave data to file without exiting app
+[E]xit without saving changes
+
+User Key Selection: p
+********** List all Student Records **********
+********** Student Record **********
+First: Alice Amy
+ Last: Anderson
+  GPA: 4.0
+Email: aanderson@uw.edu
+ Year: Junior
+Major: BSIT
+
+********** Student Record **********
+First: Bob Billy
+ Last: Bradshaw
+  GPA: 3.8
+Email: bbradshaw@uw.edu
+Credit: 11111.11
+Faculty Advisor: Dr. Donald Chinn
+********** Student Record **********
+First: Carlos Charlie
+ Last: Castaneda
+  GPA: 3.6
+Email: ccastaneda@uw.edu
+ Year: Sophomore
+Major: Psychology
+
+********** Student Record **********
+First: David Deacon
+ Last: Davis
+  GPA: 3.7
+Email: ddavis@uw.edu
+Credit: 22222.22
+Faculty Advisor: Dr. Ankur Teredesai
+********** Done listing all students **********
+
+***********************************************************
+******************* StudentDatabase App *******************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[A]dd a student record       (C in CRUD - Create)
+[F]ind a student record      (R in CRUD - Read)
+[M]odify student record      (U in CRUD - Update)
+[D]elete a student record    (D in CRUD - Delete)
+[P]rint all records in current database storage
+Print all primary [K]eys (email addresses)
+[S]ave data to file without exiting app
+[E]xit without saving changes
+
+User Key Selection: a
+Undergraduate or Graduate student? Enter (U) for Undergraduate or (G) for Graduate student.
+u
+First and middle name?:
+Yolanda
+Last name?:
+Adams
+Grade Point Average?:
+3.2
+Email Address? :
+yoadams@uw.edu
+Degree/Major?:
+Music
+**** Student information successfully entered in. ****
+
+***********************************************************
+******************* StudentDatabase App *******************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[A]dd a student record       (C in CRUD - Create)
+[F]ind a student record      (R in CRUD - Read)
+[M]odify student record      (U in CRUD - Update)
+[D]elete a student record    (D in CRUD - Delete)
+[P]rint all records in current database storage
+Print all primary [K]eys (email addresses)
+[S]ave data to file without exiting app
+[E]xit without saving changes
+
+User Key Selection: f
+ENTER the email (PRIMARY KEY) being searched for:
+aanderson@uw.edu
+FOUND email address: aanderson@uw.edu
+
+
+***********************************************************
+******************* StudentDatabase App *******************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[A]dd a student record       (C in CRUD - Create)
+[F]ind a student record      (R in CRUD - Read)
+[M]odify student record      (U in CRUD - Update)
+[D]elete a student record    (D in CRUD - Delete)
+[P]rint all records in current database storage
+Print all primary [K]eys (email addresses)
+[S]ave data to file without exiting app
+[E]xit without saving changes
+
+User Key Selection: mWhat is the email of the student whose information you would like to modify?
+ddavis@uw.edu
+********** Student Record **********
+First: David Deacon
+ Last: Davis
+  GPA: 3.7
+Email: ddavis@uw.edu
+Credit: 22222.22
+Faculty Advisor: Dr. Ankur Teredesai
+
+What information would you like to edit?
+[F]irst name and middle name?
+[L]ast name?
+[G]PA?
+[E]mail address?
+When finished, hit [X] to exit the editor.
+fFirst and middle name?
+Daniel Davis
+**** UPDATED STUDENT INFORMAITON ****
+********** Student Record **********
+First: Daniel Davis
+ Last: Davis
+  GPA: 3.7
+Email: ddavis@uw.edu
+Credit: 22222.22
+Faculty Advisor: Dr. Ankur Teredesai
+
+Either the student is not entered into the database or the email was entered incorrectly.
+Please try again.
+
+***********************************************************
+******************* StudentDatabase App *******************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[A]dd a student record       (C in CRUD - Create)
+[F]ind a student record      (R in CRUD - Read)
+[M]odify student record      (U in CRUD - Update)
+[D]elete a student record    (D in CRUD - Delete)
+[P]rint all records in current database storage
+Print all primary [K]eys (email addresses)
+[S]ave data to file without exiting app
+[E]xit without saving changes
+
+User Key Selection: p
+********** List all Student Records **********
+********** Student Record **********
+First: Alice Amy
+ Last: Anderson
+  GPA: 4.0
+Email: aanderson@uw.edu
+ Year: Junior
+Major: BSIT
+
+********** Student Record **********
+First: Bob Billy
+ Last: Bradshaw
+  GPA: 3.8
+Email: bbradshaw@uw.edu
+Credit: 11111.11
+Faculty Advisor: Dr. Donald Chinn
+********** Student Record **********
+First: Carlos Charlie
+ Last: Castaneda
+  GPA: 3.6
+Email: ccastaneda@uw.edu
+ Year: Sophomore
+Major: Psychology
+
+********** Student Record **********
+First: Daniel Davis
+ Last: Davis
+  GPA: 3.7
+Email: ddavis@uw.edu
+Credit: 22222.22
+Faculty Advisor: Dr. Ankur Teredesai
+********** Student Record **********
+First: Yolanda
+ Last: Adams
+  GPA: 3.2
+Email: yoadams@uw.edu
+ Year: 0
+Major: Music
+
+********** Done listing all students **********
+
+***********************************************************
+******************* StudentDatabase App *******************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[A]dd a student record       (C in CRUD - Create)
+[F]ind a student record      (R in CRUD - Read)
+[M]odify student record      (U in CRUD - Update)
+[D]elete a student record    (D in CRUD - Delete)
+[P]rint all records in current database storage
+Print all primary [K]eys (email addresses)
+[S]ave data to file without exiting app
+[E]xit without saving changes
+
+User Key Selection: sSaved all students to output file.
+
+***********************************************************
+******************* StudentDatabase App *******************
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[A]dd a student record       (C in CRUD - Create)
+[F]ind a student record      (R in CRUD - Read)
+[M]odify student record      (U in CRUD - Update)
+[D]elete a student record    (D in CRUD - Delete)
+[P]rint all records in current database storage
+Print all primary [K]eys (email addresses)
+[S]ave data to file without exiting app
+[E]xit without saving changes
+
+User Key Selection: e
+C:\Visual Studios\StudentDb\bin\Debug\StudentDb.exe (process 9728) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
