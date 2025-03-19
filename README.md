@@ -3,6 +3,7 @@
 ## Overview
 This project is a **Student Database (StudentDb)** designed to manage undergraduate and graduate student records. The system implements **CRUD (CREATE, READ, UPDATE, DELETE)**
 operations, allowing the user to add, view, modify, and remove student records efficiently.
+This was developed in the Winter 2025 quarter at the University of Washington in Tacoma. This is one of the assignments apart of the T INFO 200 curriculum and was demonstrated by Charles Costarella. The ideation and conceptial aspect of the assignment is credited towards Costarella however, method of implementation, styling, and use of code is my responsibility.
 
 ## Status
 This project is currently a work in progress. CRUD functionality has been partially implemented, some features are incomplete or require refining. I plan to continue developing
